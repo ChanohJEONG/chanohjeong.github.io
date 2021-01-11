@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About the Theme
+title: About CHAN OH
 tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+date: 2021-01-11
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="{{ site.url }}"><b>CHAN</b></a>  is a SW Programmer.  and I'll Post Learning Process from Job & Class </center>
 
 ## Features
 * Minimal, you can focus on your content
