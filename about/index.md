@@ -6,7 +6,7 @@ date: 2021-01-11
 comments: false
 ---
     
-<center><a href="{{ site.url }}"><b>CHAN</b></a>  is a SW Programmer.  and I'll Post Learning Process from Job & Class </center>
+<center><a href="{{ site.url }}"><b>CHANOH</b></a>  is a SW Programmer.</center>
 
 ## Features
 * Minimal, you can focus on your content
