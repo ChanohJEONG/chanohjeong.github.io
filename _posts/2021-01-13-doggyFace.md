@@ -18,7 +18,7 @@ comments: true
 
 <figure>
 	<a href="http://heejun1942.pythonanywhere.com/"><img src="{{ site.url }}/assets/img/portfolio/doggy.png"></a>
-	<figcaption><a href="http://heejun1942.pythonanywhere.com/" title="from do-shoes.com"></a></figcaption>
+	<figcaption><a href="http://heejun1942.pythonanywhere.com/" title=""></a></figcaption>
 </figure>
 
 
