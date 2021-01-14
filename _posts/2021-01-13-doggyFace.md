@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Doggie Face"
-date:   2021-01-13
+date:   2021-01-14
 excerpt: "CNN 모델을 통한 닮은꼴 강아지 추천"
 project: true
 tag:
