@@ -23,7 +23,7 @@ comments: true
 
 
 * skill : 딥러닝,CNN,Django
-* url : <a href="http://heejun1942.pythonanywhere.com/"> http://heejun1942.pythonanywhere.com/ </a>
+* url : <a href="http://heejun1942.pythonanywhere.com/">  http://heejun1942.pythonanywhere.com/ </a>
 
 ```html
 CNN 모델로 강아지 얼굴을 학습하여, 사람얼굴과 유사한 강아지종을 알려줍니다.
