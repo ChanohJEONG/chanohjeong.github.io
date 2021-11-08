@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Oracle DB 교육 1일차"
-date:   2021-03-02
+date:   2021-11-08
 excerpt: "Oracle DB 수업(1)"
 tag:
 - jekyll 
@@ -35,7 +35,7 @@ comments: true
 
 - 이론 내용.
 <figure>
-    <a href="{{ site.url }}/assets/img/SQL/oracle1.png"><img src="{{ site.url }}/assets/img/SQL/oracle1.png" width="50" height="30"></a>
+    <a href="{{ site.url }}/assets/img/SQL/oracle1.PNG"><img src="{{ site.url }}/assets/img/SQL/oracle1.PNG" width="50" height="30"></a>
 </figure>
 
   - DB
@@ -52,7 +52,7 @@ comments: true
     -  2차원 테이블로 관리하기때문에 사용하기 편리함!
 
       <figure>
-    <a href="{{ site.url }}/assets/img/SQL/oracle2.png"><img src="{{ site.url }}/assets/img/SQL/oracle2.png" width="50" height="30"></a>
+    <a href="{{ site.url }}/assets/img/SQL/oracle2.PNG"><img src="{{ site.url }}/assets/img/SQL/oracle2.PNG" width="50" height="30"></a>
     </figure>
 
     - RDBMS - Oracle, DB2, MySQL  등
@@ -60,7 +60,7 @@ comments: true
   - Data Models
 
     <figure>
-    <a href="{{ site.url }}/assets/img/SQL/oracle3.png"><img src="{{ site.url }}/assets/img/SQL/oracle3.png" width="50" height="30"></a>
+    <a href="{{ site.url }}/assets/img/SQL/oracle3.PNG"><img src="{{ site.url }}/assets/img/SQL/oracle3.PNG" width="50" height="30"></a>
     </figure>
 
     - DB 설계 (Modeling) - Table 생성을 위한 설계
@@ -72,7 +72,7 @@ comments: true
   - SQL 용어
 
 <figure>
-    <a href="{{ site.url }}/assets/img/SQL/oracle4.png"><img src="{{ site.url }}/assets/img/SQL/oracle4.png" width="50" height="30"></a>
+    <a href="{{ site.url }}/assets/img/SQL/oracle4.PNG"><img src="{{ site.url }}/assets/img/SQL/oracle4.PNG" width="50" height="30"></a>
   </figure>
 
 ---
@@ -130,7 +130,7 @@ SELECT department_id depart
 ```
 
 <figure>
-    <a href="{{ site.url }}/assets/img/SQL/sql1.png"><img src="{{ site.url }}/assets/img/SQL/sql1.png" width="50" height="30"></a>
+    <a href="{{ site.url }}/assets/img/SQL/sql1.PNG"><img src="{{ site.url }}/assets/img/SQL/sql1.PNG" width="50" height="30"></a>
 </figure>
 
 - Concat
@@ -143,7 +143,7 @@ SELECT last_name||commission_pct
 ```
 
 <figure>
-    <a href="{{ site.url }}/assets/img/SQL/sql2.png"><img src="{{ site.url }}/assets/img/SQL/sql2.png" width="50" height="30"></a>
+    <a href="{{ site.url }}/assets/img/SQL/sql2.PNG"><img src="{{ site.url }}/assets/img/SQL/sql2.PNG" width="50" height="30"></a>
 </figure>
 
 ```sql
@@ -152,7 +152,7 @@ select last_name || ' is a ' || job_id AS detila
 ```
 
 <figure>
-    <a href="{{ site.url }}/assets/img/SQL/sql3.png"><img src="{{ site.url }}/assets/img/SQL/sql3.png" width="50" height="30"></a>
+    <a href="{{ site.url }}/assets/img/SQL/sql3.PNG"><img src="{{ site.url }}/assets/img/SQL/sql3.PNG" width="50" height="30"></a>
 </figure>
 
 ```sql
@@ -161,7 +161,7 @@ select last_name || '''s a ' || job_id AS detila
 ```
 
 <figure>
-    <a href="{{ site.url }}/assets/img/SQL/sql4.png"><img src="{{ site.url }}/assets/img/SQL/sql4.png" width="50" height="30"></a>
+    <a href="{{ site.url }}/assets/img/SQL/sql4.PNG"><img src="{{ site.url }}/assets/img/SQL/sql4.PNG" width="50" height="30"></a>
 </figure>
 
 ```sql
@@ -173,7 +173,7 @@ select last_name || q'('s )' || job_id AS detila
 ```
 
 <figure>
-    <a href="{{ site.url }}/assets/img/SQL/sql5.png"><img src="{{ site.url }}/assets/img/SQL/sql5.png" width="50" height="30"></a>
+    <a href="{{ site.url }}/assets/img/SQL/sql5.PNG"><img src="{{ site.url }}/assets/img/SQL/sql5.PNG" width="50" height="30"></a>
 </figure>
 
 - select 시 값을 입력 하면?
@@ -186,7 +186,7 @@ select last_name || q'('s )' || job_id AS detila
   ```
 
   <figure>
-    <a href="{{ site.url }}/assets/img/SQL/sql6.png"><img src="{{ site.url }}/assets/img/SQL/sql6.png" width="50" height="30"></a>
+    <a href="{{ site.url }}/assets/img/SQL/sql6.PNG"><img src="{{ site.url }}/assets/img/SQL/sql6.PNG" width="50" height="30"></a>
   </figure>
 
   - dual table은 1 row attribute를 갖는 table로 oracle에서 만들었음.
@@ -197,7 +197,7 @@ select last_name || q'('s )' || job_id AS detila
   ```
 
   <figure>
-    <a href="{{ site.url }}/assets/img/SQL/sql7.png"><img src="{{ site.url }}/assets/img/SQL/sql7.png" width="50" height="30"></a>
+    <a href="{{ site.url }}/assets/img/SQL/sql7.PNG"><img src="{{ site.url }}/assets/img/SQL/sql7.PNG" width="50" height="30"></a>
   </figure>
 
 - WHERE 절의 사용
